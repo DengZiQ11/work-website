@@ -27,7 +27,7 @@ I'm Jie Xu. I'm from China. My undergraduate degree is in Digital Media Technolo
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">XUJIE　XUJIE　XUJIE</a>
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">dengziqiang</a>
 </div>
 ```
 
